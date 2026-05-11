@@ -54998,5 +54998,71 @@
         "type": "province",
         "latitude": "39.227779",
         "longitude": "9.111111"
-    }
+    },
+    {
+    "id": 5151,
+    "name": "Bodden Town District",
+    "country_id": 41,
+    "country_code": "KY",
+    "country_name": "Cayman Islands",
+    "state_code": "BT",
+    "type": "district",
+    "latitude": "19.27454574",
+    "longitude": "-81.25992370"
+  },
+  {
+    "id": 5152,
+    "name": "East End District",
+    "country_id": 41,
+    "country_code": "KY",
+    "country_name": "Cayman Islands",
+    "state_code": "EE",
+    "type": "district",
+    "latitude": "19.29969528",
+    "longitude": "-81.11026952"
+  },
+  {
+    "id": 5153,
+    "name": "George Town District",
+    "country_id": 41,
+    "country_code": "KY",
+    "country_name": "Cayman Islands",
+    "state_code": "GT",
+    "type": "district",
+    "latitude": "19.28680872",
+    "longitude": "-81.35306325"
+  },
+  {
+    "id": 5154,
+    "name": "North Side District",
+    "country_id": 41,
+    "country_code": "KY",
+    "country_name": "Cayman Islands",
+    "state_code": "NS",
+    "type": "district",
+    "latitude": "19.33859523",
+    "longitude": "-81.21306115"
+  },
+  {
+    "id": 5155,
+    "name": "Sister Islands",
+    "country_id": 41,
+    "country_code": "KY",
+    "country_name": "Cayman Islands",
+    "state_code": "SI",
+    "type": "district",
+    "latitude": "19.38000000",
+    "longitude": "-81.39000000"
+  },
+  {
+    "id": 5156,
+    "name": "West Bay District",
+    "country_id": 41,
+    "country_code": "KY",
+    "country_name": "Cayman Islands",
+    "state_code": "WB",
+    "type": "district",
+    "latitude": "19.38000000",
+    "longitude": "-81.39000000"
+  }
 ]

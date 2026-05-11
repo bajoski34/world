@@ -53,6 +53,7 @@ return [
 		'tr',
         'zh',
         'hu',
+		'yo'
 	],
 
 	/*
