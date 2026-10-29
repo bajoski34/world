@@ -55064,5 +55064,137 @@
     "type": "district",
     "latitude": "19.38000000",
     "longitude": "-81.39000000"
-  }
+  },
+    {
+        "id": 5157,
+        "name": "Grouville",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "GR",
+        "type": "parish",
+        "latitude": "49.18700000",
+        "longitude": "-2.03900000"
+    },
+    {
+        "id": 5158,
+        "name": "Saint Brélade",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "BR",
+        "type": "parish",
+        "latitude": "49.18400000",
+        "longitude": "-2.20500000"
+    },
+    {
+        "id": 5159,
+        "name": "Saint Clement",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "CL",
+        "type": "parish",
+        "latitude": "49.17200000",
+        "longitude": "-2.07900000"
+    },
+    {
+        "id": 5160,
+        "name": "Saint Helier",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "HE",
+        "type": "parish",
+        "latitude": "49.18580000",
+        "longitude": "-2.11000000"
+    },
+    {
+        "id": 5161,
+        "name": "Saint John",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "JO",
+        "type": "parish",
+        "latitude": "49.24600000",
+        "longitude": "-2.13500000"
+    },
+    {
+        "id": 5162,
+        "name": "Saint Lawrence",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "LA",
+        "type": "parish",
+        "latitude": "49.21300000",
+        "longitude": "-2.14200000"
+    },
+    {
+        "id": 5163,
+        "name": "Saint Martin",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "MN",
+        "type": "parish",
+        "latitude": "49.21400000",
+        "longitude": "-2.05000000"
+    },
+    {
+        "id": 5164,
+        "name": "Saint Mary",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "MY",
+        "type": "parish",
+        "latitude": "49.24000000",
+        "longitude": "-2.17000000"
+    },
+    {
+        "id": 5165,
+        "name": "Saint Ouen",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "OU",
+        "type": "parish",
+        "latitude": "49.22900000",
+        "longitude": "-2.21300000"
+    },
+    {
+        "id": 5166,
+        "name": "Saint Peter",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "PE",
+        "type": "parish",
+        "latitude": "49.20800000",
+        "longitude": "-2.18600000"
+    },
+    {
+        "id": 5167,
+        "name": "Saint Saviour",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "SA",
+        "type": "parish",
+        "latitude": "49.19900000",
+        "longitude": "-2.09500000"
+    },
+    {
+        "id": 5168,
+        "name": "Trinity",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "state_code": "TR",
+        "type": "parish",
+        "latitude": "49.23800000",
+        "longitude": "-2.09600000"
+    }
 ]

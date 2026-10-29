@@ -1959397,5 +1959397,18 @@
         "latitude": "19.69052358",
         "longitude": "-80.04018004",
         "wikiDataId": "Q27347438"
+    },
+    {
+        "id": 153370,
+        "name": "Saint Helier",
+        "state_id": 5160,
+        "state_code": "HE",
+        "state_name": "Saint Helier",
+        "country_id": 110,
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "latitude": "49.18580000",
+        "longitude": "-2.11000000",
+        "wikiDataId": "Q216919"
     }
 ]
